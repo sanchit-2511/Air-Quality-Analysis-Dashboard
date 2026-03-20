@@ -40,16 +40,16 @@ The goal is to understand pollution trends, identify high-risk areas, and suppor
 ## 🖼️ Dashboard Preview
 
 ### 📈 Pollution Trend
-![Trend](Images/Screenshot%(83).png)
+![Trend](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Images/Screenshot%20(83).png)
 
 ### 🗺️ Geospatial Map
-![Map](Images/Screenshot%(84).png)
+![Map](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Images/Screenshot%20(84).png)
 
 ### 🤖 Forecast Output
-![Forecast](Images/Screenshot%(85).png)
+![Forecast](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Images/Screenshot%20(85).png)
 
-### 📊 ML Model (Linear Regressiom)
-![ML](Images/Screenshot%(86).png)
+### 📊 ML Regression Plot (Linear Regressiom)
+![Regression](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Images/Screenshot%20(86).png)
 
 ---
 
@@ -99,27 +99,31 @@ Air-Quality-Analysis-Dashboard/
 
 ├── data/
 
-│ └── air_quality_india.csv
+│ └── [air_quality_india.csv](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Data/air_quality_india.csv)
+
+│ └── [sample pollutant.csv](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Data/sample_pollutant.csv)
 
 │
 
 ├── app/
 
-│ └── app.py
+│ └── [app.py](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/App/app4.py)
 
 │
 
 ├── images/
 
-│ ├── trend.png
+│ ├── [Trend](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Images/Screenshot%20(83).png)
 
-│ ├── map.png
+│ ├── [Map](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Images/Screenshot%20(84).png)
 
-│ └── forecast.png
+│ └── [Forecast](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Images/Screenshot%20(85).png)
+
+│ └── [Regression](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/Images/Screenshot%20(86).png)
 
 │
 
-├── requirements.txt
+├── [requirements.txt](https://github.com/sanchit-2511/Air-Quality-Analysis-Dashboard/blob/eaec30423dff9d77ef463d0a6e62122cd410cc63/requirements.txt)
 
 └── README.md
 
@@ -161,11 +165,3 @@ This project demonstrates how data analytics, visualization, and basic machine l
 **Sanchit G. Barne**
 
 ---
-
-
-🚀 Next
-
-Send:
-👉 Project #5 (Marine Accidents Analysis)
-
-We’ll finish all 5 today ⚡
